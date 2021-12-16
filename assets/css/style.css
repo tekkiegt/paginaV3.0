@@ -848,11 +848,13 @@ section {
   margin-bottom: 20px;
 }
 #team .member .pic {
+  border-radius: 10px;
   margin-bottom: 15px;
   overflow: hidden;
   height: 260px;
 }
 #team .member .pic img {
+  border-radius: 10px;
   max-width: 100%;
 }
 #team .member h4 {
